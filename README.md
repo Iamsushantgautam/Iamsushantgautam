@@ -14,7 +14,7 @@ I am a Computer Science undergraduate with hands on experience in MERN stack dev
 
 <hr>
 
-- 👨‍💻 All of my projects are available at [https://sushantgautam.netlify.app/](https://sushant.online)
+- 👨‍💻 All of my projects are available at [https://sushant.online/](https://sushant.online)
 
 - 📫 How to reach me **iamsushantgautam@gmail.com**
 
