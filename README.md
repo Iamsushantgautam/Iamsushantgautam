@@ -9,10 +9,8 @@ I am a Computer Science undergraduate with hands on experience in MERN stack dev
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsushantgautam" />
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamsushantgautam)
-
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsushantgautam&cache_seconds=86400" />
+  </p>
 
 <hr>
 
