@@ -8,11 +8,6 @@ Computer Science Student | MERN Stack Developer | Shopify Developer | Python Lea
 I am a Computer Science undergraduate with hands on experience in MERN stack development and Shopify development. I specialize in building scalable web applications and developing high quality e commerce solutions with a strong focus on clean code, performance, and usability. I also have working knowledge of Python and continuously enhance my skills through learning and practical implementation. I am self motivated, adaptable, and eager to contribute in professional technology driven environments.
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=iamsushantgautam" />
- 
-  </p>
-
 <hr>
 
 - 👨‍💻 All of my projects are available at [https://sushant.online/](https://sushant.online)
