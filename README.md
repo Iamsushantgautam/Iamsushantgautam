@@ -5,7 +5,7 @@ Computer Science Student | MERN Stack Developer | Shopify Developer | Python Lea
 </h3>
 
 <p align="center">
-I am a Computer Science undergraduate with hands on experience in MERN stack development and Shopify development. I specialize in building scalable web applications and developing high quality e commerce solutions with a strong focus on clean code, performance, and usability. I also have working knowledge of Python and continuously enhance my skills through learning and practical implementation. I am self motivated, adaptable, and eager to contribute in professional technology driven environments.
+I am a Computer Science graduate passionate about full-stack web development, with hands-on experience in MERN stack, Laravel, and Shopify development. I enjoy building scalable web applications and high-quality e-commerce solutions, focusing on clean code, performance, security, and user experience. I also have working knowledge of Python and continuously expand my technical skills by learning new technologies and building real-world projects. Self-motivated, adaptable, and always eager to solve challenging problems and contribute to innovative technology-driven teams.
 </p>
 
 <hr>
